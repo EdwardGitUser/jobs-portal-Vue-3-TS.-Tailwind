@@ -1,0 +1,400 @@
+{
+  "degrees": [
+    {
+      "id": 1,
+      "degree": "Associate"
+    },
+    {
+      "id": 2,
+      "degree": "Bachelor's"
+    },
+    {
+      "id": 3,
+      "degree": "Master's"
+    },
+    {
+      "id": 4,
+      "degree": "Ph.D."
+    },
+    {
+      "id": 5,
+      "degree": "Pursuing Degree"
+    }
+  ],
+  "spotlights": [
+    {
+      "id": 1,
+      "img": "https://images.unsplash.com/photo-1556075798-4825dfaaf498",
+      "title": "Cloud Engineering",
+      "description": "Build fun stuff in the cloud. It's a lot of fun, we promise!"
+    },
+    {
+      "id": 2,
+      "img": "https://images.unsplash.com/photo-1511376777868-611b54f68947",
+      "title": "Executive Leadership",
+      "description": "Be a leader for everyone. Leadership builds character."
+    }
+  ],
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Angular Developer",
+      "organization": "Vue and Me",
+      "degree": "Master's",
+      "jobType": "Intern",
+      "Локації": ["Kyiv"],
+      "dateAdded": "2025-07-02"
+    },
+    {
+      "id": 2,
+      "title": "Java Coder",
+      "organization": "VueTube",
+      "degree": "Bachelor's",
+      "jobType": "Part-time",
+      "Локації": ["Lviv", "Kharkiv"],
+      "dateAdded": "2025-07-02"
+    },
+    {
+      "id": 3,
+      "title": "Svelte Ninja",
+      "organization": "Vue Can Do It",
+      "degree": "Ph.D.",
+      "jobType": "Full-time",
+      "Локації": ["Odesa", "Dnipro", "Zaporizhzhia", "Vinnytsia"],
+      "dateAdded": "2025-07-02"
+    },
+    {
+      "id": 4,
+      "title": "Software Designer",
+      "organization": "VueTube",
+      "degree": "Master's",
+      "jobType": "Part-time",
+      "Локації": ["Poltava", "Chernihiv"],
+      "dateAdded": "2025-07-02"
+    },
+    {
+      "id": 5,
+      "title": "C++ VP",
+      "organization": "Point of Vue",
+      "degree": "Associate",
+      "jobType": "Temporary",
+      "Локації": ["Sumy"],
+      "dateAdded": "2025-07-02"
+    },
+    {
+      "id": 6,
+      "title": "Knockout Designer",
+      "organization": "Point of Vue",
+      "degree": "Associate",
+      "jobType": "Temporary",
+      "Локації": ["Ivano-Frankivsk", "Ternopil", "Lutsk"],
+      "dateAdded": "2025-07-02"
+    },
+    {
+      "id": 7,
+      "title": "Full Stack Coder",
+      "organization": "Vue Can Do It",
+      "degree": "Master's",
+      "jobType": "Temporary",
+      "Локації": ["Rivne", "Khmelnytskyi", "Zhytomyr"],
+      "dateAdded": "2025-07-02"
+    },
+    {
+      "id": 8,
+      "title": "Angular Developer",
+      "organization": "Vue and a Half Men",
+      "degree": "Pursuing Degree",
+      "jobType": "Part-time",
+      "Локації": ["Chernivtsi"],
+      "dateAdded": "2025-07-02"
+    },
+    {
+      "id": 9,
+      "title": "Go Specialist",
+      "organization": "VueTube",
+      "degree": "Bachelor's",
+      "jobType": "Full-time",
+      "Локації": ["Kropyvnytskyi", "Kherson"],
+      "dateAdded": "2025-07-02"
+    },
+    {
+      "id": 10,
+      "title": "Software Supervisor",
+      "organization": "VueTube",
+      "degree": "Master's",
+      "jobType": "Temporary",
+      "Локації": ["Mykolaiv", "Kremenchuk"],
+      "dateAdded": "2025-07-02"
+    },
+    {
+      "id": 11,
+      "title": "UI Coder",
+      "organization": "Vue and a Half Men",
+      "degree": "Ph.D.",
+      "jobType": "Part-time",
+      "Локації": ["Uzhhorod", "Berdiansk", "Mariupol", "Melitopol"],
+      "dateAdded": "2025-07-02"
+    },
+    {
+      "id": 12,
+      "title": "CSS VP",
+      "organization": "Vue Can Do It",
+      "degree": "Ph.D.",
+      "jobType": "Part-time",
+      "Локації": ["Severodonetsk", "Kramatorsk", "Sloviansk"],
+      "dateAdded": "2025-07-02"
+    },
+    {
+      "id": 13,
+      "title": "Backbone Lead",
+      "organization": "VueTube",
+      "degree": "Master's",
+      "jobType": "Intern",
+      "Локації": ["Bila Tserkva"],
+      "dateAdded": "2025-07-02"
+    },
+    {
+      "id": 14,
+      "title": "C++ Ninja",
+      "organization": "Et Vue Brute",
+      "degree": "Pursuing Degree",
+      "jobType": "Part-time",
+      "Локації": ["Konotop", "Shostka", "Romny", "Hlukhiv"],
+      "dateAdded": "2025-07-02"
+    },
+    {
+      "id": 15,
+      "title": "UI Specialist",
+      "organization": "VueTube",
+      "degree": "Master's",
+      "jobType": "Temporary",
+      "Локації": ["Korosten", "Ovruch", "Malyn", "Berdychiv"],
+      "dateAdded": "2025-07-02"
+    },
+    {
+      "id": 16,
+      "title": "Java Engineer",
+      "organization": "VueTube",
+      "degree": "Associate",
+      "jobType": "Intern",
+      "Локації": ["Fastiv", "Vasylkiv", "Boryspil", "Brovary"],
+      "dateAdded": "2025-07-02"
+    },
+    {
+      "id": 17,
+      "title": "Backend Developer",
+      "organization": "Vue Can Do It",
+      "degree": "Bachelor's",
+      "jobType": "Intern",
+      "Локації": ["Irpin", "Bucha"],
+      "dateAdded": "2025-07-02"
+    },
+    {
+      "id": 18,
+      "title": "Meteor Developer",
+      "organization": "Vue and Me",
+      "degree": "Associate",
+      "jobType": "Part-time",
+      "Локації": ["Hostomel", "Vyshhorod", "Pereiaslav", "Obukhiv"],
+      "dateAdded": "2025-07-02"
+    },
+    {
+      "id": 19,
+      "title": "Ember Lead",
+      "organization": "VueTube",
+      "degree": "Pursuing Degree",
+      "jobType": "Temporary",
+      "Локації": ["Mukachevo", "Svaliava", "Khust", "Rakhiv"],
+      "dateAdded": "2025-07-02"
+    },
+    {
+      "id": 20,
+      "title": "TypeScript Wizard",
+      "organization": "Et Vue Brute",
+      "degree": "Associate",
+      "jobType": "Intern",
+      "Локації": ["Kolomyia"],
+      "dateAdded": "2025-07-02"
+    },
+    {
+      "id": 21,
+      "title": "Ruby VP",
+      "organization": "Et Vue Brute",
+      "degree": "Ph.D.",
+      "jobType": "Full-time",
+      "Локації": ["Kovel"],
+      "dateAdded": "2025-07-02"
+    },
+    {
+      "id": 22,
+      "title": "CSS Director",
+      "organization": "VueTube",
+      "degree": "Bachelor's",
+      "jobType": "Intern",
+      "Локації": ["Novovolynsk", "Lutsk"],
+      "dateAdded": "2025-07-02"
+    },
+    {
+      "id": 23,
+      "title": "Svelte Manager",
+      "organization": "Et Vue Brute",
+      "degree": "Ph.D.",
+      "jobType": "Full-time",
+      "Локації": ["Kremenets"],
+      "dateAdded": "2025-07-02"
+    },
+    {
+      "id": 24,
+      "title": "CSS Associate",
+      "organization": "Point of Vue",
+      "degree": "Master's",
+      "jobType": "Full-time",
+      "Локації": ["Korostyshiv"],
+      "dateAdded": "2025-07-02"
+    },
+    {
+      "id": 25,
+      "title": "Frontend Ninja",
+      "organization": "Vue and a Half Men",
+      "degree": "Associate",
+      "jobType": "Temporary",
+      "Локації": ["Montriyal"],
+      "dateAdded": "2025-07-02"
+    },
+    {
+      "id": 26,
+      "title": "Ember Lead",
+      "organization": "VueTube",
+      "degree": "Associate",
+      "jobType": "Temporary",
+      "Локації": ["Dubno", "Rivne", "Kostopil"],
+      "dateAdded": "2025-07-02"
+    },
+    {
+      "id": 27,
+      "title": "UI Programmer",
+      "organization": "Vue Can Do It",
+      "degree": "Bachelor's",
+      "jobType": "Temporary",
+      "Локації": ["Copenhagen"],
+      "dateAdded": "2025-07-02"
+    },
+    {
+      "id": 28,
+      "title": "Mobile Programmer",
+      "organization": "VueTube",
+      "degree": "Associate",
+      "jobType": "Intern",
+      "Локації": ["Sarny"],
+      "dateAdded": "2025-07-02"
+    },
+    {
+      "id": 29,
+      "title": "Ember Supervisor",
+      "organization": "VueTube",
+      "degree": "Ph.D.",
+      "jobType": "Full-time",
+      "Локації": ["Volodymyr", "Novovolynsk", "Lutsk"],
+      "dateAdded": "2025-07-02"
+    },
+    {
+      "id": 30,
+      "title": "JavaScript Ninja",
+      "organization": "Vue and Me",
+      "degree": "Pursuing Degree",
+      "jobType": "Temporary",
+      "Локації": ["Austin", "Prague", "Bilbao"],
+      "dateAdded": "2025-07-02"
+    },
+    {
+      "id": 31,
+      "title": "Angular 2 Specialist",
+      "organization": "Et Vue Brute",
+      "degree": "Ph.D.",
+      "jobType": "Temporary",
+      "Локації": ["Lisbon", "Leipzig"],
+      "dateAdded": "2025-07-02"
+    },
+    {
+      "id": 32,
+      "title": "Ruby VP",
+      "organization": "Vue Can Do It",
+      "degree": "Bachelor's",
+      "jobType": "Temporary",
+      "Локації": ["Shenzhen"],
+      "dateAdded": "2025-07-02"
+    },
+    {
+      "id": 33,
+      "title": "jQuery Designer",
+      "organization": "Vue and a Half Men",
+      "degree": "Pursuing Degree",
+      "jobType": "Part-time",
+      "Локації": ["Cologne", "Atlanta", "Milwaukee"],
+      "dateAdded": "2025-07-02"
+    },
+    {
+      "id": 34,
+      "title": "C++ Manager",
+      "organization": "Vue Can Do It",
+      "degree": "Ph.D.",
+      "jobType": "Part-time",
+      "Локації": ["Seattle", "Paris", "Memphis", "Louisville"],
+      "dateAdded": "2025-07-02"
+    },
+    {
+      "id": 35,
+      "title": "C++ Director",
+      "organization": "Vue Can Do It",
+      "degree": "Associate",
+      "jobType": "Part-time",
+      "Локації": ["Barcelona", "Montriyal", "El Paso"],
+      "dateAdded": "2025-07-02"
+    },
+    {
+      "id": 36,
+      "title": "Full Stack VP",
+      "organization": "Vue and Me",
+      "degree": "Pursuing Degree",
+      "jobType": "Temporary",
+      "Локації": ["Albany", "Boulder", "Geneva", "Denver"],
+      "dateAdded": "2025-07-02"
+    },
+    {
+      "id": 37,
+      "title": "UI Ninja",
+      "organization": "Vue Can Do It",
+      "degree": "Bachelor's",
+      "jobType": "Intern",
+      "Локації": ["Jakarta"],
+      "dateAdded": "2025-07-02"
+    },
+    {
+      "id": 38,
+      "title": "Kotlin Specialist",
+      "organization": "VueTube",
+      "degree": "Master's",
+      "jobType": "Temporary",
+      "Локації": ["Toronto", "Perth", "Guangzhou"],
+      "dateAdded": "2025-07-02"
+    },
+    {
+      "id": 39,
+      "title": "JavaScript Manager",
+      "organization": "Vue Can Do It",
+      "degree": "Ph.D.",
+      "jobType": "Part-time",
+      "Локації": ["Sacramento", "Helsinki", "Paris", "Buffalo"],
+      "dateAdded": "2025-07-02"
+    },
+    {
+      "id": 40,
+      "title": "React Lead",
+      "organization": "Vue Can Do It",
+      "degree": "Associate",
+      "jobType": "Part-time",
+      "Локації": ["Salt Lake City", "Wellington", "Medellin"],
+      "dateAdded": "2025-07-02"
+    }
+  ]
+}
