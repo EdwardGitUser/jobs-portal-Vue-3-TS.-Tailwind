@@ -95,5 +95,10 @@ export const useJobsStore = defineStore("jobs", {
         .filter((job) => this.INCLUDE_JOB_BY_DEGREE(job))
         .filter((job) => this.INCLUDE_JOB_BY_SKILL(job));
     },
+    GET_JOB_BY_ID:
+      (state) =>
+      (id: number): Job | undefined => {
+        return state.jobs.find((job) => job.id === id);
+      },
   },
 });
