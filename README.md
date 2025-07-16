@@ -2,6 +2,20 @@
 
 A modern job search platform built with Vue 3, featuring job listings, filtering, and company information pages.
 
+## 📸 Screenshots
+
+### Homepage
+
+![UA Careers Homepage](./screenshots/homepage.png)
+
+### Job Search Results
+
+![Job Search Results](./screenshots/job-results.png)
+
+### Job Details
+
+![Job Details](./screenshots/job-details.png)
+
 ## 🚀 Technologies Used
 
 - **Vue 3** - Progressive JavaScript framework with Composition API
